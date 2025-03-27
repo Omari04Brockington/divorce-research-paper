@@ -1,5 +1,7 @@
 # Divorce Research Paper
 
+Data analyzed using <b>STATA</b>
+
 ## Abstract
 This study examines the long-term wealth trajectories of people who have divorced. Divorce is a life transition with general economic repercussions, frequently entailing long-term ramifications for earning capacity and wealth accumulation. Although it impacts all parties, the post-divorce economic lives of men and women are polar opposites, with institutional gender disparities in levels of income recovery and access to wealth-accumulating prospects. The current study examines the effect of divorce on long-term economic outcomes with a particular focus on comparing income change and asset building among divorced men and women. The research attempts to unravel the mediating processes underlying gender-specific disparities through detailed examinations of the contributions of educational advancement, child care arrangements, re-marriage, and spousal support receipt using the National Longitude Survey from the Bureau of Labor Statistics.
 
